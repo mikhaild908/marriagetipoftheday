@@ -1,4 +1,4 @@
-Marriage Tip of the Day
+Marriage Tip of the Day - .NET Core library
 
 Sample code to use the library:
 
